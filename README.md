@@ -14,3 +14,6 @@ The Japanese word "Ikunangaku" means "geometric" due to the geometric look of th
 # Changelog #
 ### Alpha 0.1 ###
 This is the first ever version of Ikunangaku Gothic. It started with Latin, Greek, Cyrillic and Armenian.
+### Alpha 0.2 ###
+Added: Wynn, Yogh, Tironian Et, Philippine Peso, More Superior Numbers, Modifier Letter N, Inferior Numbers, Weierstrass, Script R, Armenian Hyphen, Small Sampi, Pi Closed Omega, C-shaped Sigma, Lunate Epsilon
+Changed: Armenian Small Reh

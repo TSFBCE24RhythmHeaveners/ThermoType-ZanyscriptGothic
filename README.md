@@ -8,7 +8,7 @@ Ikunangaku Gothic is a grotesque sans-serif font for all Unicode.
 # Nomenclature #
 The Japanese word "Ikunangaku" means "geometric" due to the geometric look of this font.
 
-# Getting #
+# Download #
 (WARNING: This Font Is In Alpha Mode!) Download the latest version right in between the Logo.png and the Earlier Versions folder that you can also download.
 
 # Changelog #

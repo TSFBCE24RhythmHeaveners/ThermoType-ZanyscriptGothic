@@ -12,6 +12,5 @@ The Japanese word "Ikunangaku" means "geometric" due to the geometric look of th
 (WARNING: This Font Is In Alpha Mode, Don't Download Until I Make Beta Version)
 
 # Changelog #
-## Alpha ##
-### 0.1 ###
+### Alpha 0.1 ###
 This is the first ever version of Ikunangaku Gothic. It started with Latin, Greek, Cyrillic and Armenian.

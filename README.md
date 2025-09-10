@@ -23,3 +23,6 @@ Changed: Armenian Small Reh
 
 ### Beta 0.2.1 ###
 Added: Cyrillic Qoppa, Cyrillic Ge With Hook, Cyrillic Jerv, Cyrillic Onik, Cyrillic Yn, House Symbol, and Integral Halves
+
+# Requests #
+Go to the Issues tab and click "New Issue" and label it "Enhancement" to submit your request.

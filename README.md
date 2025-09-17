@@ -1,9 +1,9 @@
 <p align="center">
-  <img width="800" height="auto" src="https://github.com/TSFBCE24RhythmHeaveners/ThermoType-IkunangakuGothic/blob/main/Logo.png">
+  <img width="800" height="auto" src="https://github.com/TSFBCE24RhythmHeaveners/ThermoType-ZanyscriptGothic/blob/main/Logo.png">
 </p>
 
-# ThermoType-IkunangakuGothic
-Ikunangaku Gothic is a grotesque sans-serif font for all Unicode. 
+# ThermoType-ZanyscriptGothic
+Zanyscript Gothic is a grotesque sans-serif font for all Unicode. 
 
 # Nomenclature #
 The Japanese word "Ikunangaku" means "geometric" due to the geometric look of this font.

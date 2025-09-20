@@ -12,7 +12,7 @@ The Japanese word "Ikunangaku" means "geometric" due to the geometric look of th
 From "zany" and "script".
 
 # Download #
-Download the latest version right in between the Logo.png and the Earlier Versions folder that you can also download.
+Download the latest version and/or the Earlier Versions folder that you can also download.
 
 # Changelog #
 

@@ -27,5 +27,10 @@ Changed: Armenian Small Reh
 ### Beta 0.2.1 ###
 Added: Cyrillic Qoppa, Cyrillic Ge With Hook, Cyrillic Jerv, Cyrillic Onik, Cyrillic Yn, House Symbol, and Integral Halves
 
+### Process 250510-A ###
+Added: Arabic (diacritics unfinished), Cadexian Letters, Variation Selectors 1 & 2, Ean & Vrrrpt (TPOT 20 REFERENCE), Gender Symbols (not being in legal trouble), Roman Numerals, Coptic & More Greek, Some more Cyrillic, Tifinagh, Alternate O, Fullwidth ASCII, Won Sign, Small Caps, Latin Extended, Beria Erfe, Vithkuqi, Halfwidth Hangul Tikeut Mieum & Pieuph, Some Diacritics, Kelvin, & Angstrom
+
+Changed: N-shaped lowercase letters
+
 # Requests #
 Go to the Issues tab and click "New Issue" and label it "Enhancement" to submit your request.

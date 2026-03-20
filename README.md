@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" height="auto" src="https://github.com/TSFBCE24RhythmHeaveners/ThermoType-ZanyscriptGothic/blob/main/ZanyscriptLogo.png">
+  <img width="800" height="auto" src="https://github.com/TSFBCE24RhythmHeaveners/ThermoType-ZanyscriptGothic/blob/main/Zanyscript Gothic Logo P260317A.png">
 </p>
 
 # ThermoType-ZanyscriptGothic

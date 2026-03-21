@@ -6,9 +6,9 @@
 Zanyscript Gothic is a grotesque sans-serif font for all Unicode. 
 
 # Nomenclature #
-### Before Process 250510-A ###
+### Before Process P250510A ###
 The Japanese word "Ikunangaku" means "geometric" due to the geometric look of this font.
-### Process 250510-A ###
+### Process P250510A ###
 From "zany" and "script".
 
 # Download #
@@ -32,7 +32,7 @@ Added: Arabic (diacritics unfinished), Cadexian Letters, Variation Selectors 1 &
 
 Changed: N-shaped lowercase letters
 
-### Process P260317A ###
+### Process P261703A ###
 Added: Empty loads of characters I am going to design and some additions other people didn't expect
 
 Changed: Distinct Eth, D-line and African D designs and and some changes other people didn't expect

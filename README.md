@@ -3,7 +3,7 @@
 </p>
 
 # ThermoType-ZanyscriptGothic
-Zanyscript Gothic is a grotesque sans-serif font for all Unicode. 
+Zanyscript Gothic is a grotesque sans-serif font for all Unicode. It started in 2024 and continued in early and mid 2025.
 
 # Nomenclature #
 ### Before Process P250510A ###
@@ -17,7 +17,7 @@ Download the latest version and/or the Earlier Versions folder that you can also
 # Changelog #
 
 ### Alpha 0.1 ###
-It started in 2024.
+It started in 2024 and continued in early and mid 2025.
 
 This is the first ever version of Ikunangaku Gothic. It started with Latin, Greek, Cyrillic and Armenian.
 
